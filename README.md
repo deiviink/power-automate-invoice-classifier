@@ -104,12 +104,6 @@ This flow was built for **Accounts Receivable** teams that receive high volumes 
 
 ---
 
-## 📸 Flow Screenshot
-
-![Flow Overview](docs/flow-overview.png)
-
----
-
 ## 👤 Author
 
 **David** – Cash Application Analyst | Power Automate Developer  
